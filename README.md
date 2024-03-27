@@ -2,6 +2,7 @@
 ## Introduction
 
 The Global Superstore dashboard provides a comprehensive overview of sales transactions across branches worldwide. By analyzing sales data at different levels of granularity, stakeholders gain valuable insights to make informed decisions and drive business growth.
+[Video Presentation](https://drive.google.com/file/d/1ggvUU-PG-lPOLKhrzlYuHxuqDeo0pE5W/view?usp=drive_link)
 
 ## Data Preprocessing
 
